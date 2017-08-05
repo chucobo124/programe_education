@@ -37,3 +37,31 @@
 ##### Questions:
 
   1. Define your project and think what server or application you need.
+
+# Language introducing
+
+  1. backend Language ( Ruby Php Golang ...)
+  2. FrontEnd Language ( Html Css ... )
+
+  So again. What is [FrontEnd what is Backend]([https://www.quora.com/Which-programming-languages-are-front-end-and-which-ones-are-back-end]) ?
+
+# Learn Ruby ?
+
+  Not necessary actually. Just depends on what you like.
+
+  How program works ? How can I understand a program ?
+
+  [Ruby warrior](https://www.bloc.io/ruby-warrior#/warriors/309623/levels/1)
+
+  Let's learn some basic. ( Google Search Ruby )
+#### How to install ?
+  ```
+   ruby -v
+  ```
+  Brew install Ruby
+  ```
+    brew install ruby
+  ```
+  Check this guy ! [Ihower](https://ihower.tw/rails/ruby.html)This guys write the basic tutorial of ruby on rails. We can learn from him.
+##### Questions:
+  1. Why we need to use RVM or Rbenv ?
