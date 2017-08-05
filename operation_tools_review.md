@@ -12,6 +12,14 @@
 ##### Questions:
 
 1. Review Github.
+2. Create a Simple Project.
+3. Use Atom
+4. Use iterm2
+5. Give terminal have color.
+```
+export CLICOLOR='true'
+export LSCOLORS="gxfxcxdxcxegedabagacad"
+```
 
 # The basic of Server Overview
 
