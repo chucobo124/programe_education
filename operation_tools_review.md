@@ -15,11 +15,13 @@
 2. Create a Simple Project.
 3. Use Atom
 4. Use iterm2
+  - [Improve your terminal](http://osxdaily.com/2013/02/05/improve-terminal-appearance-mac-os-x/)
 5. Give terminal have color.
 ```
 export CLICOLOR='true'
 export LSCOLORS="gxfxcxdxcxegedabagacad"
 ```
+6. An Overview to Vim.
 
 # The basic of Server Overview
 
