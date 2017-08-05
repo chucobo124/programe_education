@@ -34,9 +34,8 @@
   1. <b>ls</b>:
   2. <b>cat</b>: View a file
   3. <b>rm</b>:
-  4. <b>cat</b>:
-  5. <b>echo</b>:
-  6. <b>bash_profile</b>:
+  4. <b>echo</b>:
+  5. <b>bash_profile</b>:
 
 ### Question:
   1. How do I define a question ?
@@ -48,4 +47,4 @@
 
   1. Fill up all the questions
   2. Clone and Create your Repo in [Documentation](https://github.com/chucobo124/programe_education) finish your homework and return to me.
-  3. Create a repo which is your homework and answer your question with branches 
+  3. Create a repo which is your homework and answer your question with branches
